@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "pulsedesk-demo", "runtimeExecutable": "node", "runtimeArgs": ["index.js", "--demo"], "port": 4141 }
+  ]
+}
